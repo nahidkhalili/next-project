@@ -1,5 +1,5 @@
 
-import LoginForm from "../components/templates/loginForm";
+import LoginForm from "../components/templates/LoginFormoginForm";
 
 const Login = () => {
   return (

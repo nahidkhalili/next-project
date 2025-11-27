@@ -1,5 +1,5 @@
 
-import RegistrationForm from "../components/templates/registrationForm";
+import RegistrationForm from "../components/templates/RegistrationFormegistrationForm";
 
 const Registration = () => {
   return (
