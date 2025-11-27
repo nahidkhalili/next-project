@@ -1,5 +1,6 @@
 import Image from "next/image";
-import styles from "./searchItems.module.css";
+//===
+import styles from "./SearchItems.module.css";
 import { useRef, useEffect } from "react";
 
 const SearchItems = ({ setSearchItem, searchItem }) => {
